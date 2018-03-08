@@ -4,6 +4,10 @@
   background-size: contain;
 }
 
+.icon-label {
+  color: black;
+}
+
 .i-64 {
   height: 64px;
   width: 64px;
