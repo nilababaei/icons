@@ -1,0 +1,26 @@
+.icon {
+  display: inline-block;
+  background: transparent none no-repeat center center;
+  background-size: contain;
+}
+
+.i-64 {
+  height: 64px;
+  width: 64px;
+}
+
+.ankylosaurus {
+  background-image: url("../images/ankylosaurus.svg")
+}
+
+.hadrosaur {
+  background-image: url("../images/hadrosaur.svg")
+}
+
+.stegosaurus {
+  background-image: url("../images/stegosaurus.svg")
+}
+
+.triceratops {
+  background-image: url("../images/triceratops.svg")
+}
